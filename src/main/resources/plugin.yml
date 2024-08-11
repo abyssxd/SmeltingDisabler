@@ -1,0 +1,6 @@
+name: SmeltingDisabler
+version: '${project.version}'
+main: com.github.abyssxd.smeltingdisabler.SmeltingDisabler
+api-version: 1.20
+authors: [ AbisGamer ]
+description: Disables terracota smelting
